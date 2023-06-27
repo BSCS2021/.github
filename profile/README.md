@@ -1,6 +1,6 @@
 # BSCS Section-B, Batch 2021-25 GitHub Organization
 
-Welcome to the official GitHub organization for BSCS Section-B, Batch 2021-25 at the University of Agriculture Faisalabad! 
+Welcome to the GitHub organization for BSCS Section-B, Batch 2021-25 at the University of Agriculture Faisalabad! 
 
 ## Purpose
 
